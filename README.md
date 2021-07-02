@@ -38,11 +38,11 @@ This project was done using Javascript, Node and Express</p>
 
 With this application the client can access the following routes<br/>
 
-1. GET /repositories → list all repositories. <br/>
-1. POST /repositories → create a repository. <br/>
-1. PUT /repositories/:id → update a repository. <br/>
-1. POST /repositories/:id/like → add a like to a repository. <br/>
-1. DELETE /repositories/:id → delete a repository by id. <br/>
+1. GET `/repositories` → list all repositories. <br/>
+1. POST `/repositories` → create a repository. <br/>
+1. PUT `/repositories/:id` → update a repository. <br/>
+1. POST `/repositories/:id/like` → add a like to a repository. <br/>
+1. DELETE `/repositories/:id` → delete a repository by id. <br/>
 
 ---
 
